@@ -10,7 +10,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>fgrthtgyjyu</value>
+      <value>hyper</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
