@@ -10,6 +10,13 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>fnfjfg</value>
+      <value>fgrthtgyjyu</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>hyfghfghfgfg</value>
    </webElementProperties>
 </WebElementEntity>
